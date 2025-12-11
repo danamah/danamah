@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Danah!;Frontend+Developer;React.js+❤️+Modern+UI/UX&font=Fira+Code&center=true&width=650&height=100&color=00FFFF&vCenter=true&size=40" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Dana!;Frontend+Developer;React.js+❤️+Modern+UI/UX&font=Fira+Code&center=true&width=650&height=100&color=00FFFF&vCenter=true&size=40" alt="Typing SVG"/>
 
-<div align="center">
-  <img src="https://i.imgur.com/0lZ2Y3J.gif width="800" alt="header gif"/>
-</div>
+
 
 <br>
 
