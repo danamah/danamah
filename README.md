@@ -7,12 +7,18 @@
 <br>
 
 ### 👩‍💻 About Me
-Passionate **Frontend Developer** who loves turning ideas into beautiful, responsive, and fast web experiences.  
-Currently building modern UIs with React.js and perfecting my craft every single day.
+Frontend Developer specializing in Next.js & React, passionate about building fast, scalable, and user-friendly web applications.
 
-- 🌱 Always learning new technologies and improving my skills  
-- ⚡ Fun fact: I can make a website look amazing in both light and dark mode  
-- 📫 Reach me: https://www.linkedin.com/in/dana-mahmoud-2615731b5/
+I enjoy turning complex ideas into clean, interactive interfaces and continuously improving performance, accessibility, and UI architecture.
+
+🚀 Currently focused on:
+- Next.js & Modern React
+- API-driven applications
+- Performance & UX optimization
+
+🌱 Always learning. Always building.
+
+📫 LinkedIn: https://www.linkedin.com/in/dana-mahmoud-2615731b5/
 
 <br>
 
