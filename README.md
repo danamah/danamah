@@ -29,7 +29,7 @@ Currently building modern UIs with React.js and perfecting my craft every single
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
-  <img src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Next.js" width="50" height="50"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/development/next.js-4jgorlt5yc2okojqvlpt7.png/next.js-w76wb14xjaofqmirzwub.png?_a=DATAiZAAZAA0" alt="Next.js" width="50" height="50"/>
 </p>
 
 <br>
