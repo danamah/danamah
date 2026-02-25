@@ -29,6 +29,7 @@ Currently building modern UIs with React.js and perfecting my craft every single
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next.js" width="50" height="50"/>
 </p>
 
 <br>
